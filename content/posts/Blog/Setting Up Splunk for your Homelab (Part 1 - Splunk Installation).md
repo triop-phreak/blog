@@ -6,8 +6,8 @@ description: Learn how to install Splunk in your homelab environment with this s
 images:
   - /ob/attachments/Pasted%20image%2020250507163216.png
 title: Setting Up Splunk for your Homelab (Part 1 - Splunk Installation)
-date: 2025-05-07T20:22:42.000Z
-lastmod: 2025-05-27T19:52:49.729Z
+date: 2025-05-27T19:52:49.000Z
+lastmod: 2025-05-27T19:52:49.000Z
 ---
 In this post I'll walk through the steps to download a free copy of Splunk, apply for a 10GB/day developer license, and set up your own Splunk server for your homelab. Splunk is a great tool to learn because it's widely used especially in large companies and because it's fun to dig in to. In the future, I'll post about getting data into Splunk from a variety of sources including Unifi network equipment, Corelight/Zeek, Salesforce, Microsoft, and more!
 
