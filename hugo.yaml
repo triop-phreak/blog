@@ -95,7 +95,7 @@ menu:
   main:
   - identifier: pottery
     name: "Pottery!"
-    url: https://kejceramics.com
+    url: https://evankinder.com
     weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
